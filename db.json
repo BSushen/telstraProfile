@@ -1,0 +1,76 @@
+{
+    "profile":[
+        {
+            "did": "d875817",
+            "name": "Akshay Nimbal",
+            "typeOfEmployee": "contractor",
+            "company": "wipro",
+            "overallExp": 1,
+            "expInTelstra": 1,
+            "skills": "Angular 4, React.js, Node.js, Java SpringBoot, AWS, CI-CD",
+            "openToOpportunities": true,
+            "manager": "vineet",
+            "currentLocation": "Pune, India"
+          },
+          {
+            "did": "d905448",
+            "name": "Sushen Birari",
+            "typeOfEmployee": "contractor",
+            "company": "wipro",
+            "overallExp": 5,
+            "expInTelstra": 0.8,
+            "skills": "React.js, Node.js, React Native, Scrum Master",
+            "openToOpportunities": true,
+            "manager": "vineet",
+            "currentLocation": "Pune, India"
+          },
+          {
+            "did": "d8191128",
+            "name": "Charan TC",
+            "typeOfEmployee": "contractor",
+            "company": "wipro",
+            "overallExp": 6,
+            "expInTelstra": 1,
+            "skills": "React.js, Node.js, React Native,",
+            "openToOpportunities": true,
+            "manager": "vineet",
+            "currentLocation": "Pune, India"
+          },
+          {
+            "did": "d9012345",
+            "name": "Nikhil",
+            "typeOfEmployee": "contractor",
+            "company": "wipro",
+            "overallExp": 1,
+            "expInTelstra": 1,
+            "skills": "Angular js, React.js, Node.js, React Native,",
+            "openToOpportunities": true,
+            "manager": "vineet",
+            "currentLocation": "Pune, India"
+          },
+          {
+            "did": "d9054321",
+            "name": "Akshata",
+            "typeOfEmployee": "contractor",
+            "company": "wipro",
+            "overallExp": 1,
+            "expInTelstra": 1,
+            "skills": "Angular js, React.js, Node.js, React Native,",
+            "openToOpportunities": true,
+            "manager": "vineet",
+            "currentLocation": "Pune, India"
+          },
+          {
+            "did": "d8189192",
+            "name": "Natesh",
+            "typeOfEmployee": "contractor",
+            "company": "wipro",
+            "overallExp": 5,
+            "expInTelstra": 1,
+            "skills": "Angular js, React.js, Node.js, React Native,",
+            "openToOpportunities": true,
+            "manager": "vineet",
+            "currentLocation": "Pune, India"
+          }
+    ]
+}
